@@ -1,0 +1,13 @@
+{
+  "name": "MUI theme",
+  "id": "1332095679597864082",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "enableProposedApi": false,
+  "editorType": ["dev", "figma"],
+  "capabilities": ["vscode", "inspect"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "ui": { "export": "export.html" }
+}
